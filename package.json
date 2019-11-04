@@ -2,7 +2,7 @@
   "name": "money",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mikemikemikemikemmmm.github.io/d3stack/",
+  "homepage": "https://mikemikemikemikemmmm.github.io/d3stack/build/",
   "dependencies": {
     "@babel/core": "7.6.0",
     "@svgr/webpack": "4.3.2",
